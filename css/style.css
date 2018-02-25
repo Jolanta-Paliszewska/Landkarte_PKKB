@@ -287,6 +287,8 @@ hr {
 /* ++++++++++++++++++++++++++++++++ thumbnail  ++++++++++++++++++++++++++++++++++++ */
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
+
+
 .thumbnail {
   display: block;
   /*padding: 4px;*/
@@ -301,6 +303,7 @@ hr {
     padding: 9px;
     color: #333;
 }
+
 #listing .rounded {
 	border-bottom-right-radius: 0 !important;
 	border-bottom-left-radius: 0 !important;
