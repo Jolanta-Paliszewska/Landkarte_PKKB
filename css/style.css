@@ -287,11 +287,10 @@ hr {
 /* ++++++++++++++++++++++++++++++++ thumbnail  ++++++++++++++++++++++++++++++++++++ */
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
-
-
-.thumbnail .caption {
-    padding: 9px;
-    color: #333;
+#listing .display-3 {
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.2;
 }
 
 #listing .rounded {
