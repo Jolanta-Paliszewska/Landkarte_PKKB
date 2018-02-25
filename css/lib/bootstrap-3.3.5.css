@@ -2253,7 +2253,7 @@ table {
   background-color: transparent;
 }
 caption {
-  padding-top: 8px;
+  padding-top: 28px;
   padding-bottom: 8px;
   color: #777;
   text-align: left;
@@ -5046,7 +5046,7 @@ a.badge:focus {
 }
 .thumbnail {
   display: block;
-  /*padding: 4px;*/
+  padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #F9F9F9;
